@@ -1,4 +1,4 @@
-# Age-and-Gender-Dectection
+# Age-and-Gender-Detection
 
 
-Age and gender Dectection using pre-trained caffe models
+Age and gender Detection using pre-trained caffe models
